@@ -9,6 +9,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.2",
+        "arunfung/scout-elasticsearch": "^0.0.7",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.0",
         "laravel/scout": "^7.1",
